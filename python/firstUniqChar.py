@@ -65,9 +65,7 @@ class Solution:
         
 
 if __name__ == "__main__":
-
-    s = Solution()
-    print(s.firstUniqChar("leetcode"))
-    print(s.firstUniqChar("loveleetcode"))
-    print(s.firstUniqChar("aabb"))
-    print(s.firstUniqChar("aadadaad"))
+    print(Solution().firstUniqChar("leetcode"))
+    print(Solution().firstUniqChar("loveleetcode"))
+    print(Solution().firstUniqChar("aabb"))
+    print(Solution().firstUniqChar("aadadaad"))
