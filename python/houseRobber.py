@@ -39,7 +39,7 @@ dp(0) = nums[0]
 dp(1) = max(nums[0], nums[1])
 
 
-
+T = S = O(n)
 
 """
 
